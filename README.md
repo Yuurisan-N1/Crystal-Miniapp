@@ -105,8 +105,8 @@ elixir --version
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Yuurisan-N1/CrystalMining-Miniapp.git
-cd CrystalMining-Miniapp
+git clone https://github.com/Yuurisan-N1/Crystal-Miniapp.git
+cd Crystal-Miniapp
 ```
 
 **Install dependencies:**
